@@ -1,0 +1,16 @@
+{
+  "name": "remark-mdx-toc",
+  "version": "1.0.0",
+  "description": "This makes a table of contents as MDX components you can replace with the normal component object. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liltechnomancer",
+  "license": "MIT",
+  "dependencies": {
+    "mdast-util-toc": "^6.1.0",
+    "unist-util-map": "^3.0.1",
+    "remark-pluck": "*"
+  }
+}
