@@ -1,4 +1,5 @@
-# remark-mdx-toc
+# remark-mdx-toc :smiling_imp:
+
 This makes a table of contents as MDX components you can replace with the normal component object.
 
 > :warning: Currently this is for my personal use. If you can figure out how to use this in its current state with no docs have fun. :warning:
